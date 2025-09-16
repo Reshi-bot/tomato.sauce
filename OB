@@ -1,16 +1,17 @@
 {
   "title": "Oblivion Battery",
-  "description": "Le lanceur monstrueux, Kiyomine Haruka et le général receveur, Kaname Kei ! C'est le nom de la batterie ultime qui fait trembler tous les joueurs de baseball collégien du Japon. Un avenir prometteur les attend... jusqu'à ce que Kaname perde la mémoire et avec, sa passion du baseball, redevenant un total amateur ! Au lieu d'un prestigieux lycée spécialisé, c'est dans un lycée public sans réputation qu'ils font leur rentrée lycéenne mais ils ne semblent pas être les seuls joueurs de baseball déchus du coin... ",
+  "description": "Le lanceur monstrueux, Kiyomine Haruka et le général receveur, Kaname Kei ! C'est le nom de la batterie ultime qui fait trembler tous les joueurs de baseball collégien du Japon. Un avenir prometteur les attend... jusqu'à ce que Kaname perde la mémoire et avec, sa passion du baseball, redevenant un total amateur ! Au lieu d'un prestigieux lycée spécialisé, c'est dans un lycée public sans réputation qu'ils font leur rentrée lycéenne mais ils ne semblent pas être les seuls joueurs de baseball déchus du coin.",
   "artist": "Mikawa Eko",
   "author": "Mikawa Eko",
   "cover": "https://upload.wikimedia.org/wikipedia/en/8/8f/B%C5%8Dkyaku_Battery_volume_1_cover.jpg",
   "chapters": {
     "45": {
       "title": "Chapitre 45",
+      "volume": "7",
       "groups": {
-        "Cosmea": "/proxy/api/imgur/chapter/JgbuGFt/"
-        ]
-      }
+        "Cosmea": "/proxy/api/imgur/chapter/GPy2O2A"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
