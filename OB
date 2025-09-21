@@ -29,12 +29,19 @@
       },
       "last_updated": "1616368746"
     },
-
       "45": {
       "title": "chapitre 45",
       "volume": "7",
       "groups": {
         "<Cosmea>": "/proxy/api/imgur/chapter/kABPRsX/"
+      },
+      "last_updated": "1616368746"
+    },
+   "46": {
+      "title": "Chapitre 46",
+      "volume": "7",
+      "groups": {
+        "<Cosmea>": "/proxy/api/imgur/chapter/lQ9yZbK/"
       },
       "last_updated": "1616368746"
     }
