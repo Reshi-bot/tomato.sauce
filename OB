@@ -17,7 +17,7 @@
       "title": "Chapitre 43",
       "volume": "7",
       "groups": {
-        "Cosmea": "/proxy/api/imgur/chapter/GurK0d5/"
+        "<Cosmea>": "/proxy/api/imgur/chapter/GurK0d5/"
       },
       "last_updated": "1616368746"
     },
@@ -25,23 +25,16 @@
       "title": "Chapitre 44",
       "volume": "7",
       "groups": {
-        "Cosmea": "/proxy/api/imgur/chapter/3llmYdU/"
+        "<Cosmea>": "/proxy/api/imgur/chapter/3llmYdU/"
       },
       "last_updated": "1616368746"
     },
+
       "45": {
       "title": "chapitre 45",
       "volume": "7",
       "groups": {
-        "Cosmea": "/proxy/api/imgur/chapter/kABPRsX/"
-      },
-      "last_updated": "1616368746"
-    },
-   "46": {
-      "title": "Chapitre 46",
-      "volume": "7",
-      "groups": {
-        "Cosmea": "/proxy/api/imgur/chapter/lQ9yZbK/"
+        "<Cosmea>": "/proxy/api/imgur/chapter/kABPRsX/"
       },
       "last_updated": "1616368746"
     }
