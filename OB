@@ -1,41 +1,50 @@
 {
-  "title": "Oblivion Battery",
-  "description": "Le lanceur monstrueux, Kiyomine Haruka et le général receveur, Kaname Kei ! C'est le nom de la batterie ultime qui fait trembler tous les joueurs de baseball collégien du Japon. Un avenir prometteur les attend... jusqu'à ce que Kaname perde la mémoire et avec, sa passion du baseball, redevenant un total amateur ! Au lieu d'un prestigieux lycée spécialisé, c'est dans un lycée public sans réputation qu'ils font leur rentrée lycéenne mais ils ne semblent pas être les seuls joueurs de baseball déchus du coin.",
-  "artist": "Mikawa Eko",
-  "author": "Mikawa Eko",
-  "cover": "https://upload.wikimedia.org/wikipedia/en/8/8f/B%C5%8Dkyaku_Battery_volume_1_cover.jpg",
-  "chapters": {
-    "42": {
-      "title": "Chapitre 42",
-      "volume": "7",
-      "groups": {
-        "Cosmea": "/proxy/api/imgur/chapter/i9Muae7/"
-    },
-   "43": {
-      "title": "Chapitre 43",
-      "volume": "7",
-      "groups": {
-        "Cosmea": "/proxy/api/imgur/chapter/GurK0d5/"
-    },
-   "44": {
-      "title": "Chapitre 44",
-      "volume": "7",
-      "groups": {
-        "Cosmea": "/proxy/api/imgur/chapter/3llmYdU/"
+    "title": "Oblivion Battery",
+    "description": "Le lanceur monstrueux, Kiyomine Haruka et le général receveur, Kaname Kei ! C'est le nom de la batterie ultime qui fait trembler tous les joueurs de baseball collégien du Japon. Un avenir prometteur les attend... jusqu'à ce que Kaname perde la mémoire et avec, sa passion du baseball, redevenant un total amateur ! Au lieu d'un prestigieux lycée spécialisé, c'est dans un lycée public sans réputation qu'ils font leur rentrée lycéenne mais ils ne semblent pas être les seuls joueurs de baseball déchus du coin.",
+    "artist": "Mikawa Eko",
+    "author": "Mikawa Eko",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/8/8f/B%C5%8Dkyaku_Battery_volume_1_cover.jpg",
+    "chapters": {
+        "42": {
+            "title": "Chapitre 42",
+            "volume": "7",
+            "groups": {
+                "Cosmea": "/proxy/api/imgur/chapter/i9Muae7/"
+            },
+            "last_updated": "1616368746"
+        },
+        "43": {
+            "title": "Chapitre 43",
+            "volume": "7",
+            "groups": {
+                "Cosmea": "/proxy/api/imgur/chapter/GurK0d5/"
+            },
+            "last_updated": "1616368746"
+        },
+        "44": {
+            "title": "Chapitre 44",
+            "volume": "7",
+            "groups": {
+                "Cosmea": "/proxy/api/imgur/chapter/3llmYdU/"
+            },
+            "last_updated": "1616368746"
+        },
+        "45": {
+            "title": "chapitre 45",
+            "volume": "7",
+            "groups": {
+                "Cosmea": "/proxy/api/imgur/chapter/kABPRsX/"
+            },
+            "last_updated": "1616368746"
+        },
+        "46": {
+            "title": "chapitre 46",
+            "volume": "7",
+            "groups": {
+                "Cosmea": "/proxy/api/imgur/chapter/lQ9yZbK/"
+            },
+            "last_updated": "1616368746"
 
-    },
-   "45": {
-      "title": "Chapitre 45",
-      "volume": "7",
-      "groups": {
-        "Cosmea": "/proxy/api/imgur/chapter/kABPRsX/"
-
-   },
-   "46": {
-      "title": "Chapitre 46",
-      "volume": "7",
-      "groups": {
-        "Cosmea": "/proxy/api/imgur/chapter/lQ9yZbK/"
+        }
     }
-  }
 }
