@@ -55,7 +55,7 @@
       }
     },
     "46": {
-      "title": "Chapter 46",
+      "title": "Chapitre 46",
       "volume": "7",
       "last_updated": "1758538795",
       "groups": {
@@ -63,11 +63,19 @@
       }
     },
     "47": {
-      "title": "Chapter 47",
+      "title": "Chapitre 47",
       "volume": "7",
       "last_updated": "1758666396",
       "groups": {
         "Cosmea": "/proxy/api/imgur/chapter/MrKyy1M"
+      }
+    },
+    "48": {
+      "title": "Chapitre 48",
+      "volume": "8",
+      "last_updated": "1760097621",
+      "groups": {
+        "Cosmea": "/proxy/api/imgur/chapter/vkJgPv5"
       }
     }
   }
